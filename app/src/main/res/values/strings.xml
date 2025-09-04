@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UsersAccounts</string>
+    <string name="add_user_profile">Add User Profile</string>
+    <string name="follow">Follow</string>
+    <string name="name">Name:</string>
+    <string name="bio">Bio:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="posts">Posts:</string>
+    <string name="followers">Followers:</string>
+    <string name="following">Following:</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="take_image">Take image</string>
+    <string name="user_name_et_hint">User Name</string>
+    <string name="user_bio_et_hint">Bio</string>
+    <string name="following_numbers_et_hint">Following Numbers</string>
+    <string name="followers_numbers_et_hint">Followers Numbers</string>
+    <string name="posts_number_et_hint">Posts Number</string>
+    <string name="date_of_birth_et_hint">Date of Birth</string>
+    <string name="take_photo">Take Photo</string>
+</resources>

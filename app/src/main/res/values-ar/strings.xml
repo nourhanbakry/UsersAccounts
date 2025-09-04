@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UsersAccounts</string>
+    <string name="add_user_profile">اضافه حساب مستخدم</string>
+    <string name="follow">متابعه</string>
+    <string name="name">الاسم:</string>
+    <string name="bio">نبذه:</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="posts">المنشورات:</string>
+    <string name="followers">المتابعين:</string>
+    <string name="following">يتابع:</string>
+    <string name="share_profile">شارك الحساب</string>
+    <string name="take_image">التقط صوره</string>
+    <string name="user_name_et_hint">اسم المستخدم</string>
+    <string name="user_bio_et_hint">نبذه</string>
+    <string name="following_numbers_et_hint">عدد الذي تتابعهم</string>
+    <string name="followers_numbers_et_hint">عدد المتابعين</string>
+    <string name="posts_number_et_hint">عدد المنشورات</string>
+    <string name="date_of_birth_et_hint">تاريخ الميلاد</string>
+    <string name="take_photo">التقط صوره</string>
+</resources>
